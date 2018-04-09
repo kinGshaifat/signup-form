@@ -89,3 +89,10 @@
 </table>
 </form>
 <p align="center" style="color:red"><b>N/A- "The * mark area should be fulfilled by new user"</b></p><br>
+<div class="content">
+<ul class="icons">
+						<li><a href="https://twitter.com/SkShaifat" class="icon round fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://facebook.com/kingshaifat" class="icon round fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.instagram.com/king_shaifat/" class="icon round fa-instagram"><span class="label">Instagram</span></a></li>
+					</ul>
+					</div>
